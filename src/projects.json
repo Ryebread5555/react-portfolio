@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "name": "Work-day-scheduler",
+        "image": "https://github.com/Ryebread5555/work-day-scheduler/blob/main/assets/images/module-5-mock-up.gif",
+        "github": "https://github.com/Ryebread5555/work-day-scheduler",
+        "description": "A simple JavaScript app that keeps track of a 9-5 workday schedule!",
+        "skills": "HTML | CSS | JavaScript | JQuery | Bootstrap"
+    },
+    {
+        "id": 2,
+        "name": "Note-Taker",
+        "image": "https://github.com/Ryebread5555/Note-Taker/blob/main/image/note-taker-screenshot.jpg",
+        "github": "https://github.com/Ryebread5555/Note-Taker",
+        "description": "This is a note taking app deployed with Heroku!",
+        "skills": "JavaScript | NodeJs | Express.js | Bootstrap"
+    }
+]
