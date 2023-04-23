@@ -3,6 +3,7 @@ import Navigation from '../Navigation';
 import Project from '../Project';
 import Contact from '../Contact';
 import About from '../About';
+import Resume from '../Resume';
 
 function Portfolio () {
     // this will use the state of the current page
@@ -17,6 +18,8 @@ const renderPage = () => {
         return <Contact></Contact>
         case 'portfolio':
         return <Project></Project>
+        case 'resume':
+        return <Resume></Resume>
         default:
             return <About></About>
     }
