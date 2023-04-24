@@ -1,18 +1,50 @@
 [
     {
         "id": 1,
-        "name": "Work-day-scheduler",
-        "image": "https://github.com/Ryebread5555/work-day-scheduler/blob/main/assets/images/module-5-mock-up.gif",
+        "name": "Workday Scheduler",
+        "image": "https://raw.githubusercontent.com/Ryebread5555/work-day-scheduler/main/assets/images/module-5-mock-up.gif",
         "github": "https://github.com/Ryebread5555/work-day-scheduler",
-        "description": "A simple JavaScript app that keeps track of a 9-5 workday schedule!",
+        "description": "A 9-5 workday scheduler!",
         "skills": "HTML | CSS | JavaScript | JQuery | Bootstrap"
     },
     {
         "id": 2,
-        "name": "Note-Taker",
-        "image": "https://github.com/Ryebread5555/Note-Taker/blob/main/image/note-taker-screenshot.jpg",
+        "name": "Note Taker",
+        "image": "https://raw.githubusercontent.com/Ryebread5555/Note-Taker/main/image/note-taker-screenshot.jpg",
         "github": "https://github.com/Ryebread5555/Note-Taker",
         "description": "This is a note taking app deployed with Heroku!",
         "skills": "JavaScript | NodeJs | Express.js | Bootstrap"
+    },
+    {
+        "id": 3,
+        "name": "Weather Dashboard",
+        "image": "https://raw.githubusercontent.com/Ryebread5555/mod6-server-side-weather-api/main/assets/images/weather-dashboard-mockup.gif",
+        "github": "https://github.com/Ryebread5555/mod6-server-side-weather-api",
+        "description": "This is a Weather API that gives you the 5 day forecast",
+        "skills": "HTML | JavaScript | Openweather API | Bootstrap"
+    },
+    {
+        "id": 4,
+        "name": "Lean On Me Project",
+        "image": "https://raw.githubusercontent.com/MunaZekia/Lean-On-Me/main/assets/Leanonme.png",
+        "github": "https://github.com/MunaZekia/Lean-On-Me",
+        "description": "Group project to find local volunteer opportunities!",
+        "skills": "JavaScript | NodeJs | Handlebars | MySql | Exoress.js | Sequelize"
+    },
+    {
+        "id": 5,
+        "name": "Social-network API",
+        "image": "https://raw.githubusercontent.com/Ryebread5555/social-network-api/main/assets/social-network-api.gif",
+        "github": "https://github.com/Ryebread5555/social-network-api",
+        "description": "This is the backend of a social-network API!",
+        "skills": "JavaScript | NodeJs | Express.js | MongooseDB"
+    },
+    {
+        "id": 6,
+        "name": "Tech Blog",
+        "image": "https://raw.githubusercontent.com/Ryebread5555/Tech-Blog/main/assets/tech-blog-screenshot.png",
+        "github": "https://github.com/Ryebread5555/Tech-Blog",
+        "description": "Tech-blog using the MVC sturcture",
+        "skills": "JavaScript | NodeJs | Express.js | Handlebar.js | Sequelize"
     }
 ]
