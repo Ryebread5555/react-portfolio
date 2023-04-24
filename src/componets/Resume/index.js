@@ -6,10 +6,10 @@ function ResumeForm () {
     return (
         <section>
 
-            <div class='resume-container'>
+            <div className='resume-container'>
                 <Row>
                     <Col lg={4} md={12}>
-                        <h2 class='resume'>Front-end proficiencies</h2>
+                        <h2 className='resume'>Front-end proficiencies</h2>
                         <ul>
                             <li>
                                 HTML
@@ -33,7 +33,7 @@ function ResumeForm () {
                     </Col>
 
                     <Col lg={4} md={12}>
-                        <h2 class='resume'>Back-end proficiencies</h2>
+                        <h2 className='resume'>Back-end proficiencies</h2>
                         <ul>
                             <li>
                                 Node.js
@@ -57,7 +57,7 @@ function ResumeForm () {
                     </Col>
 
                     <Col lg={4} md={12}>
-                        <h2 class='education'>Education</h2>
+                        <h2 className='education'>Education</h2>
                         <p>
                             <span className='school-name'>Northwestern University</span><br></br>
                             Full Stack Web Development Bootcamp
