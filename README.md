@@ -27,7 +27,7 @@ This is a single page application built with React that renders content for a pr
 
 ## Deployed
 
-This application is deployed
+Deployed application https://ryebread5555.github.io/react-portfolio/
 
 ## Usage
 
