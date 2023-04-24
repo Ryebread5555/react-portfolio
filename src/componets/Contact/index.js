@@ -7,25 +7,25 @@ function ContactForm () {
     const [errorMessage, setErrorMessage] = useState('');
 
     function handleChange(e) {
-        if (e.taget.name === 'email') {
-            const isValid = validateEmail(e.target.value);
-
-            if(!isValid) {
-                setErrorMessage('Your email is invalid');
-            } else {
-                setErrorMessage('');
-            }
+        if (e.target.name === 'email') {
+          const isValid = validateEmail(e.target.value);
+      
+          if (!isValid) {
+            setErrorMessage('Your email is invalid');
+          } else {
+            setErrorMessage('');
+          }
         } else {
-            if (!e.target.value.length) {
-                setErrorMessage(`${e.target.name} is required.`);
-            } else {
-                setErrorMessage('');
-            }
+          if (!e.target.value.length) {
+            setErrorMessage(`${e.target.name} is required.`);
+          } else {
+            setErrorMessage('');
+          }
         }
         if (!errorMessage) {
-            setFormState({...formState, [e.taget.name]: e.taget.value })
+          setFormState({ ...formState, [e.target.name]: e.target.value });
         }
-    }
+      }
     function handleSubmit(e) {
         e.preventDefault();
     }
