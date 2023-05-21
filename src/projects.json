@@ -3,7 +3,7 @@
         "id": 1,
         "name": "Workday Scheduler",
         "image": "https://raw.githubusercontent.com/Ryebread5555/work-day-scheduler/main/assets/images/module-5-mock-up.gif",
-        "github": "https://github.com/Ryebread5555/work-day-scheduler",
+        "github": "https://github.com/Ryebread5555/work-day-scheduler.",
         "description": "A 9-5 workday scheduler!",
         "skills": "HTML | CSS | JavaScript | JQuery | Bootstrap"
     },
@@ -12,7 +12,7 @@
         "name": "Note Taker",
         "image": "https://raw.githubusercontent.com/Ryebread5555/Note-Taker/main/image/note-taker-screenshot.jpg",
         "github": "https://github.com/Ryebread5555/Note-Taker",
-        "description": "This is a note taking app deployed with Heroku!",
+        "description": "This is a note taking app.",
         "skills": "JavaScript | NodeJs | Express.js | Bootstrap"
     },
     {
@@ -20,7 +20,7 @@
         "name": "Weather Dashboard",
         "image": "https://raw.githubusercontent.com/Ryebread5555/mod6-server-side-weather-api/main/assets/images/weather-dashboard-mockup.gif",
         "github": "https://github.com/Ryebread5555/mod6-server-side-weather-api",
-        "description": "This is a Weather API that gives you the 5 day forecast",
+        "description": "This is a Weather API that gives you the 5 day forecast.",
         "skills": "HTML | JavaScript | Openweather API | Bootstrap"
     },
     {
@@ -35,7 +35,7 @@
         "id": 5,
         "name": "Social-network API",
         "image": "https://raw.githubusercontent.com/Ryebread5555/social-network-api/main/assets/social-network-api.gif",
-        "github": "https://github.com/Ryebread5555/social-network-api",
+        "github": "https://github.com/Ryebread5555/social-network-api.",
         "description": "This is the backend of a social-network API!",
         "skills": "JavaScript | NodeJs | Express.js | MongooseDB"
     },
@@ -44,7 +44,23 @@
         "name": "Tech Blog",
         "image": "https://raw.githubusercontent.com/Ryebread5555/Tech-Blog/main/assets/tech-blog-screenshot.png",
         "github": "https://github.com/Ryebread5555/Tech-Blog",
-        "description": "Tech-blog using the MVC sturcture",
+        "description": "Tech-blog using the MVC sturcture.",
         "skills": "JavaScript | NodeJs | Express.js | Handlebar.js | Sequelize"
+    },
+    {
+        "id": 7,
+        "name": "Pet Services Project",
+        "image": "https://raw.githubusercontent.com/dltorrise/Pet-Services/main/client/src/assets/pet-services-screenshot.png",
+        "github": "https://github.com/dltorrise/Pet-Services",
+        "description": "Full Stack project using React and Apollo Database.",
+        "skills": "React | Apollo | NodeJs | Express.js | MongoDB"
+    },
+    {
+        "id": 8,
+        "name": "Book-Search-Engine",
+        "image": "https://raw.githubusercontent.com/Ryebread5555/Book-Search-Engine/main/assets/book-search-image.png",
+        "github": "https://github.com/Ryebread5555/Book-Search-Engine",
+        "description": "Full Stack built with MERN Stack, book search using Google search API.",
+        "skills": "React | Apollo | NodeJs | Express.js | MongoDB"
     }
 ]
