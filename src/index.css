@@ -150,6 +150,7 @@ h1 {
   display: flex;
   justify-content: center;
   align-items: center;
+  flex-wrap: nowrap;
 }
 
 .page-footer a {
@@ -230,7 +231,26 @@ h1 {
     font-size: 20px;
   }
 
+  .page-footer {
+    flex-wrap: nowrap; 
+  }
+
   .contact-icons, .icon-text {
-    margin: auto 50%; 
+    margin: 0; 
+  }
+
+  #contact-form {
+    margin: 15px;
+  }
+
+  .form-control {
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 8px;
+    font-size: 16px;
+  }
+
+  .btn-outline-dark {
+    width: 100%;
   }
 }
