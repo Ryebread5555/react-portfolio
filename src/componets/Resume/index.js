@@ -1,7 +1,7 @@
 import React from 'react';
 import { Row, Col } from 'react-bootstrap';
 import { BsFillFileEarmarkWordFill } from 'react-icons/bs';
-import Resume from '../../assets/resume-image.jpg'
+import resumePDF from '../../assets/RyanPetty-web-resume.pdf';
 
 function ResumeForm() {
   return (
@@ -47,8 +47,8 @@ function ResumeForm() {
               E-Marketing
             </p>
             <Col lg={3} md={12}>
-              <a href={Resume} download>
-                <BsFillFileEarmarkWordFill />
+              <a href={resumePDF} download>
+                <BsFillFileEarmarkWordFill className='resume-icon' />
               </a>
               <p className='icon-text'>Resume</p>
             </Col>
