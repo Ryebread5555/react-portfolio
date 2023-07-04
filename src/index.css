@@ -201,6 +201,15 @@ h1 {
   font-size: 26px;
 }
 
+.resume-icon {
+  font-size: 48px; 
+  transition: font-size 0.3s; 
+}
+
+.resume-icon:hover {
+  font-size: 64px; 
+}
+
 @media screen and (max-width: 767px) {
   p, .resume-container {
     font-size: 18px;
