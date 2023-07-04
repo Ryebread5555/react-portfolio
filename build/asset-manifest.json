@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.ca39c4bc.css",
+    "main.js": "/react-portfolio/static/js/main.46c4ea50.js",
+    "static/media/RyanPetty-web-resume.pdf": "/react-portfolio/static/media/RyanPetty-web-resume.44de41f0dc7cc47dc577.pdf",
+    "static/media/Profile-pic.jpg": "/react-portfolio/static/media/Profile-pic.493740dda793360d786b.jpg",
+    "index.html": "/react-portfolio/index.html",
+    "main.ca39c4bc.css.map": "/react-portfolio/static/css/main.ca39c4bc.css.map",
+    "main.46c4ea50.js.map": "/react-portfolio/static/js/main.46c4ea50.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca39c4bc.css",
+    "static/js/main.46c4ea50.js"
+  ]
+}
